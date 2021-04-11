@@ -35,3 +35,7 @@ yarn-error.log*
 
 # WebStorm
 .idea
+
+# SW Stuff
+public/sw.js
+public/workbox-*.js
